@@ -1,4 +1,5 @@
-These repo scripts extracts audio from a video file, converts the audio into a compatible format, and transcribes it into text using the Vosk speech-to-text engine. Here's a breakdown of how it works:
+**Any language Mp4 Video to Text ( vox voice model is required as your video language, its free zip available on google )**
+These scripts extracts audio from a video file, converts the audio into a compatible format, and transcribes it into text using the Vosk speech-to-text engine. Here's a breakdown of how it works:
 
 Key Steps:
 Extract Audio from Video:
